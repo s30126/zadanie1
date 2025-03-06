@@ -1,3 +1,3 @@
-<Lena> <Lewkowicz>
-<14c>
-<s30126>
+Lena Lewkowicz
+14c
+s30126
